@@ -1,0 +1,8 @@
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\bin\Debug\A királyi kard küldetés.exe.config
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\bin\Debug\A királyi kard küldetés.exe
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\bin\Debug\A királyi kard küldetés.pdb
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\obj\Debug\A királyi kard küldetés.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\obj\Debug\A királyi kard küldetés.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\obj\Debug\A királyi kard küldetés.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\obj\Debug\A királyi kard küldetés.exe
+C:\Users\v\Desktop\Saját\kopaszBela\VsStudio\Feladatok\A királyi kard küldetés\A királyi kard küldetés\obj\Debug\A királyi kard küldetés.pdb
